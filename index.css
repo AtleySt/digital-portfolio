@@ -6,7 +6,7 @@
 
 a {
     color: black;
-    text-decoration: none;
+    text-decoration:none;
 }
 
 /* navbar */
@@ -24,4 +24,11 @@ a {
 .navbar img {
     margin-left: 12.5px;
     margin-right: 12.5px;
+}
+
+.navbar a :hover {
+    text-decoration:underline;
+    text-underline-offset: 5px;
+    text-decoration-thickness: 2.5px;
+    text-decoration-color: rgb(79, 236, 202);
 }
