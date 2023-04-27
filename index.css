@@ -14,11 +14,13 @@ a {
 .navbar {
     display: flex;
     justify-content: center;
+    font-family: 'Raleway', sans-serif;
 }
 
 .navbar h4 {
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: larger;
 }
 
 .navbar img {
@@ -33,3 +35,19 @@ a {
     text-decoration-color: #ff302c;
 }
 
+/* body */
+
+.name {
+    font-family: 'Tilt Warp', cursive;
+    width: 66%;
+    text-align: center;
+    margin-top: 50px;
+    color:#ff302c;
+    font-size: 325%;
+}
+
+.bio {
+    font-size: larger;
+    display:flex;
+    
+}
