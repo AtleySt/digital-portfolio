@@ -47,7 +47,12 @@ a {
 }
 
 .bio {
-    font-size: larger;
+    font-size: x-large;
     display:flex;
-    
+    justify-content: center;
+    margin-left: 33%;
+}
+
+.row1 {
+    margin-bottom: 20px;
 }
