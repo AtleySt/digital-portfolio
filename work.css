@@ -1,0 +1,27 @@
+/* catch alls */
+
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+/* navbar */
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar h4 {
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+}
+
+.navbar img {
+    margin-left: 12.5px;
+    margin-right: 12.5px;
+}
