@@ -72,13 +72,13 @@ a {
     align-items: center;
     display: flex;
     justify-content: center;
-    margin-right: 100px;
+    margin-right: 50px;
 }
 
 .m633 {
     font-family: 'Italianno', cursive;
     font-size:240%;
-    margin-left:5%;
+    margin-left:2%;
     text-indent: 30px;
     background-color: rgb(242, 242, 242);
     border-style: solid;
