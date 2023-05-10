@@ -109,3 +109,9 @@ img {
     font-size: x-large;
     margin-left: 20px;
 }
+
+.icons {
+    width: 10px;
+    height: 10px;
+    border: none;
+}
