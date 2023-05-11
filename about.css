@@ -10,6 +10,10 @@ a {
     text-decoration: none;
 }
 
+img {
+    border:3px solid #ff302c;
+}
+
 /* navbar */
 
 .navbar {
@@ -49,4 +53,24 @@ a {
     border: none;
     margin-left: 2.5px;
     margin-right: 2.5px;
+}
+
+/* body */
+
+.about {
+    font-family: 'Tilt Warp', cursive;
+    width: 66%;
+    text-align: center;
+    margin-top: 50px;
+    color:#ff302c;
+    font-size: 325%;
+}
+
+.row1 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
 }
