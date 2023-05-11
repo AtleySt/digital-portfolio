@@ -36,6 +36,21 @@ a {
     text-decoration-color: #ff302c;
 }
 
+.icons {
+    display: flex;
+    position: absolute;
+    right: 50px;
+    top: 15px;
+}
+
+.icons .icon {
+    width: 30px;
+    height: 30px;
+    border: none;
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+}
+
 /* body */
 
 .work {
