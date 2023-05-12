@@ -73,5 +73,21 @@ img {
     align-items: center;
     display: flex;
     justify-content: center;
+}
+
+.blog {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    word-wrap: break-word;
+    font-size: large;
+}
+
+.row2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
     font-size: x-large;
 }
