@@ -131,3 +131,15 @@ h5 {
     top:15px;
     left: -1050px;
 }
+
+.demonstration {
+    display: flex;
+    justify-content: center;
+}
+
+.dem-wrapper {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    margin-bottom: -25px;
+}
