@@ -131,3 +131,8 @@ h5 {
     top:15px;
     left: -1050px;
 }
+
+.demonstration {
+    display: flex;
+    justify-content: center;
+}
