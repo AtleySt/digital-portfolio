@@ -136,3 +136,10 @@ h5 {
     display: flex;
     justify-content: center;
 }
+
+.dem-wrapper {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    margin-bottom: -25px;
+}
